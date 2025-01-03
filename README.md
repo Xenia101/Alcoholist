@@ -1,3 +1,3 @@
 ## Alcoholist
 
-[Alcoholist](https://alcoholist.xenia.kr/)
+[Alcoholist](https://alcoholist.ryuar.in)
